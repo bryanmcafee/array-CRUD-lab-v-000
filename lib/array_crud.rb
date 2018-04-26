@@ -7,7 +7,8 @@ my_array2 = ["one", "two", "three", "four"]
 end
 
 def add_element_to_end_of_array(array, element)
-  my_array2 << "five"
+my_array3 = ["one", "two", "three", "four"]
+  my_array3 << "five"
 
 end
 
